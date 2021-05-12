@@ -1,0 +1,1 @@
+# Django-Soft-Delete-Tutorial-Example
