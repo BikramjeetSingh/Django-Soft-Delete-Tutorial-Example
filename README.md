@@ -1,5 +1,5 @@
 
-Complete source code for the example in my article on [implementing soft deletion in Django](https://dev.to/bikramjeetsingh/a-comprehensive-guide-to-django-middleware-2fee).
+Complete source code for the example in my article on [implementing soft deletion in Django](https://dev.to/bikramjeetsingh/soft-deletes-in-django-a9j).
 
 # Setup
 
